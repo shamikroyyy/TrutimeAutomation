@@ -1,0 +1,9 @@
+<suite name = "CAS Chrome Testsuite">
+    <parameter name = "browser" value ="edge"/>
+    <test name = "Edge Test">
+        <classes>
+            <class name = "trutime.tests.BeCognizantTests"/>
+            <class name = "trutime.tests.OneCognizantTests"/>
+        </classes>
+    </test>
+</suite>

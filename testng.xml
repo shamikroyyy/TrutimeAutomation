@@ -1,0 +1,9 @@
+<suite name = "CAS Generic Testsuite">
+<listeners>
+<listener class-name="trutime.utility.ExtentReportManager" />
+</listeners>
+<suite-files>
+<!--        <suite-file path="src/test/resources/chromeTest.xml" />-->
+<suite-file path="src/test/resources/edgeTest.xml"/>
+</suite-files>
+</suite>
